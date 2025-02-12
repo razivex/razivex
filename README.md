@@ -1,4 +1,12 @@
-# Welcome to my Github Profile!
+<div align="center">
 
-![razivex's Stats](https://github-readme-stats.vercel.app/api?username=razivex&theme=onedark&show_icons=true&hide_border=false&count_private=true)
-![razivex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=razivex&theme=onedark&show_icons=true&hide_border=false&layout=compact)
+# Welcome to My GitHub Profile
+
+**🚀 Explore my GitHub stats below!**
+
+<a href="https://github.com/razivex">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=razivex&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razivex&layout=compact&theme=radical"/>
+</a>
+
+</div>
