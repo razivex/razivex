@@ -9,4 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razivex&layout=compact&theme=radical"/>
 </a>
 
+<br>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=razivex&theme=radical" />
+
 </div>
