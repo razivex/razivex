@@ -11,7 +11,4 @@
 
 <br>&nbsp;<br>
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=razivex&theme=radical" />
-
 </div>
