@@ -9,6 +9,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razivex&layout=compact&theme=radical"/>
 </a>
 
-<br>&nbsp;<br>
-
 </div>
